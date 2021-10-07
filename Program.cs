@@ -26,7 +26,7 @@ namespace CsharpProjc
             **/
             var person = new Person();
             var p = person.Parse("Sutapa");
-            p.introduce("Mosh");
+            p.introduce("Pradip");
         }
         }
     }
